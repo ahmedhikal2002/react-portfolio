@@ -1,0 +1,57 @@
+@media (max-width: 700px) {
+  #my-model.model-bg {
+    background-color: var(--nav);
+    position: fixed;
+    inset: 0;
+    opacity: 0.95;
+  }
+  .model {
+    display: block;
+    position: fixed;
+    left: 10%;
+    top: 10%;
+    right: 10%;
+    background-color: var(--primary);
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.3s all ease-in;
+    animation: show 1 linear 1s alternate;
+    z-index: 10;
+  }
+
+  .model ul li:first-of-type {
+    color: rgb(242 54 54);
+    cursor: pointer;
+    text-align: right;
+    font-size: 22px;
+    margin-top: -14px;
+  }
+  .model ul li {
+    padding: 10px 0px;
+  }
+  .model ul li:not(:last-of-type) {
+    border-bottom: solid 1px var(--border);
+  }
+  .model ul li:first-of-type {
+    border-bottom: none;
+  }
+  .model ul li a {
+    color: var(--title);
+    transition: 0.3s all;
+  }
+  .model ul li a:hover {
+    color: var(--hover);
+  }
+
+  @keyframes show {
+    0% {
+      transform: scale(0.7);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+}

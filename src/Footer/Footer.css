@@ -1,0 +1,36 @@
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+}
+footer ul li {
+}
+footer ul li a {
+  color: var(--title);
+  margin-left: 15px;
+  transition: 0.3s;
+}
+footer ul li a:hover {
+  color: var(--hover);
+}
+@media (max-width: 815px) {
+  footer {
+    flex-direction: column;
+    gap: 14px;
+    padding: 10px;
+    justify-content: start;
+  }
+}
+@media (max-width: 387px) {
+  footer {
+    font-size: 14px;
+  }
+
+  footer ul li a {
+    margin-left: 10px;
+  }
+  footer .copyright {
+    line-height: 1.4;
+  }
+}

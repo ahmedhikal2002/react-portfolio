@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "img": "/img/1.jpg",
+    "title": "react project",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tellus nec quam aliquet iaculis vitae at nulla. Curabitur varius, velit nec lobortis suscipit, arcu mauris cursus enim, at fermentum lacus mauris in felis. ",
+    "category": ["react"]
+  },
+  {
+    "id": 2,
+    "img": "/img/2.jpg",
+    "title": "react & css project",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tellus nec quam aliquet iaculis vitae at nulla. Curabitur varius, velit nec lobortis suscipit, arcu mauris cursus enim, at fermentum lacus mauris in felis. ",
+    "category": ["react", "css"]
+  },
+  {
+    "id": 3,
+    "img": "/img/3.jpg",
+    "title": " css project",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tellus nec quam aliquet iaculis vitae at nulla. Curabitur varius, velit nec lobortis suscipit, arcu mauris cursus enim, at fermentum lacus mauris in felis. ",
+    "category": ["css"]
+  },
+  {
+    "id": 4,
+    "img": "/img/4.jpg",
+    "title": "react project",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tellus nec quam aliquet iaculis vitae at nulla. Curabitur varius, velit nec lobortis suscipit, arcu mauris cursus enim, at fermentum lacus mauris in felis. ",
+    "category": ["react"]
+  },
+  {
+    "id": 5,
+    "img": "/img/5.jpg",
+    "title": "css project",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tellus nec quam aliquet iaculis vitae at nulla. Curabitur varius, velit nec lobortis suscipit, arcu mauris cursus enim, at fermentum lacus mauris in felis. ",
+    "category": ["css", "node"]
+  },
+  {
+    "id": 6,
+    "img": "/img/6.jpg",
+    "title": "javaScript project",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tellus nec quam aliquet iaculis vitae at nulla. Curabitur varius, velit nec lobortis suscipit, arcu mauris cursus enim, at fermentum lacus mauris in felis. ",
+    "category": ["js"]
+  },
+  {
+    "id": 7,
+    "img": "/img/7.jpg",
+    "title": "node project",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tellus nec quam aliquet iaculis vitae at nulla. Curabitur varius, velit nec lobortis suscipit, arcu mauris cursus enim, at fermentum lacus mauris in felis. ",
+    "category": ["node"]
+  },
+  {
+    "id": 8,
+    "img": "/img/8.jpg",
+    "title": "node project",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tellus nec quam aliquet iaculis vitae at nulla. Curabitur varius, velit nec lobortis suscipit, arcu mauris cursus enim, at fermentum lacus mauris in felis. ",
+    "category": ["node"]
+  },
+  {
+    "id": 9,
+    "img": "/img/9.jpg",
+    "title": "javaScript project",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tellus nec quam aliquet iaculis vitae at nulla. Curabitur varius, velit nec lobortis suscipit, arcu mauris cursus enim, at fermentum lacus mauris in felis. ",
+    "category": ["js"]
+  },
+
+  {
+    "id": 13,
+    "img": "/img/13.webp",
+    "title": "javaScript project",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tellus nec quam aliquet iaculis vitae at nulla. Curabitur varius, velit nec lobortis suscipit, arcu mauris cursus enim, at fermentum lacus mauris in felis. ",
+    "category": ["js"]
+  }
+]
